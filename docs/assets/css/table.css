@@ -39,7 +39,7 @@ color pallet
 /* Pricing header */
 .price .header {
     background-color: #111;
-    color: #BFB8BF;
+    color: #ECEDE5;
     font-size: 25px;
 }
 
@@ -60,7 +60,7 @@ color pallet
 .button {
     background-color: #BFB8BF;
     border: none;
-    color: white;
+    color: #ECEDE5;
     padding: 10px 25px;
     text-align: center;
     text-decoration: none;
