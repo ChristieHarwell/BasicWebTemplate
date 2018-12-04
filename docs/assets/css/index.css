@@ -102,8 +102,9 @@ h1, h2, h3 {
     /* margin-left: 18%; */
 }
 
-#middleMain {
-    background-color: red;
+#middleTextb{
+    margin-top: 5%;
+    top: 5%;
 }
 
 #ad1 {
@@ -257,7 +258,7 @@ display:table;
 border-collapse:collapse;
 border-spacing:0;
 color:#F0F0F0;
- font-family: arial;
+font-family: arial;
 font-size: 14px;
 text-decoration:none;
 -webkit-transform:translateZ(0) scale(1,1);
@@ -281,7 +282,7 @@ position:relative;
 display:table-cell;
 vertical-align:middle;
 width:190px;
-  font-family: 'Titillium Web', sans-serif;
+font-family: 'Titillium Web', sans-serif;
 }
 
 .main-menu>ul.logout {

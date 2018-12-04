@@ -9,11 +9,16 @@ color pallet
     box-sizing: border-box;
 }
 
+#priceTable {
+    margin-top: 2%;
+}
+
 /* Create three columns of equal width */
 .columns {
     float: left;
     width: 33.3%;
     padding: 8px;
+    top: 70%;
 }
 
 /* Style the list */
